@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv.lock
+r-ptv-boyaca-santander.Rproj
+
+/.quarto/
+/_site/
+/renv/
+/www/
